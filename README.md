@@ -6,6 +6,10 @@ The BC-SOPs folder contains the raw results. Use read_and_reformat.m to generate
 
 Next, there are two options: python code in ranking_and_graph.py or jupyter notebook CEC24-FinalAnalysis.ipynb. The code in these two is identical.
 
+## Dependenсies:
+
+Install "ranking" with "pip install ranking".
+
 # Ranking results:
 
 ## U-scores:
